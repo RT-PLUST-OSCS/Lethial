@@ -74,14 +74,19 @@ python app.py
 
 ## install cloudflared
 
+- Cloudflared will generate a public HTTPS link you can share.
 ```linux
 sudo apt install cloudflared
-
 ```
 
 ```macos
 brew install cloudflare/cloudflare/cloudflared
-
 ```
 
-**windows** download from Official github repository
+- **windows** download from Official github repository
+
+---
+
+- this tool by
+---
+## RT 😉 & wolf script 🐺
