@@ -63,9 +63,25 @@ It is built with:
 ```bash
 pip install flask
 
----
+```
 
 ## 💻 run lethial
 
 ```bash
 python app.py
+
+```
+
+## install cloudflared
+
+```linux
+sudo apt install cloudflared
+
+```
+
+```macos
+brew install cloudflare/cloudflare/cloudflared
+
+```
+
+**windows** download from Official github repository
